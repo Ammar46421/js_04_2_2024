@@ -11,7 +11,7 @@
     // obj["age"] = 22;
     // obj["inst"] = "SMIT";
     // console.log(obj);
-    
+
     // var check = "inst" in obj;
     // console.log(check);
 
