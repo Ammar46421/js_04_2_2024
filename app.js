@@ -14,7 +14,7 @@
     
     // var check = "inst" in obj;
     // console.log(check);
-    
+
     var arr = [];
     var model = {};
     
